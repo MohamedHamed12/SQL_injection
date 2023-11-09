@@ -20,6 +20,11 @@ This search box provided to usres so they can search and found result
 
 ![image](https://github.com/MohamedHamed12/SQL_injection/assets/90472426/cef8457e-4fbe-47d1-a92c-893cdcd8c4f9)
 
+`'  union select * from users --`
+He can get all usernames and passwords 
+
+![image](https://github.com/MohamedHamed12/SQL_injection/assets/90472426/0d7df40e-8788-405e-b4a1-43209eb0c77d)
+
 
 But haker can use it to get important and sucre information from database 
 
